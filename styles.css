@@ -148,9 +148,7 @@ p{
 }
 
 @media screen and (min-width: 1030px){ 
-    body{
-        background-color: blue;
-    }
+    
     footer{
         float: none;
     }
